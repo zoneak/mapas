@@ -24,6 +24,26 @@
 		A340F85721BF19A800BF8D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A340F85921BF19A800BF8D06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A340F86021BF1FBC00BF8D06 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		FA053AF724C65BE600C7D5AE /* Ibirapuera 3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibirapuera 3.gpx"; sourceTree = "<group>"; };
+		FA1B937824F0728600F93899 /* Ibira - 5.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - 5.gpx"; sourceTree = "<group>"; };
+		FA1BE4BF24BB849800CA8B58 /* Liberdade - Kazu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Liberdade - Kazu.gpx"; sourceTree = "<group>"; };
+		FA28EB8824B134960031C082 /* Ibira - Bienal 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Bienal 1.gpx"; sourceTree = "<group>"; };
+		FA28EB8B24B13A620031C082 /* Ibira - Bienal 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Bienal 2.gpx"; sourceTree = "<group>"; };
+		FA28EB8C24B140050031C082 /* Ibira - Bienal 3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Bienal 3.gpx"; sourceTree = "<group>"; };
+		FA419D5824D73A5700DD47B2 /* Ibira - Bienal 4.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Bienal 4.gpx"; sourceTree = "<group>"; };
+		FA4B4F8B24CCDC5E00CC4C1C /* Liberdade - 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Liberdade - 2.gpx"; sourceTree = "<group>"; };
+		FA4FC50824FB1FF6005CB9A5 /* Ibira - Lanchonete.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Lanchonete.gpx"; sourceTree = "<group>"; };
+		FA55870824A950150090A2E4 /* Av Paulista - MASP.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Av Paulista - MASP.gpx"; sourceTree = "<group>"; };
+		FA55870924A951300090A2E4 /* Av Paulista - Consolacao.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Av Paulista - Consolacao.gpx"; sourceTree = "<group>"; };
+		FA55870A24A952A40090A2E4 /* Sao Joaquim.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Sao Joaquim.gpx"; sourceTree = "<group>"; };
+		FA588A1C24FF00E800FE778C /* Ibira - Planetario 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Planetario 2.gpx"; sourceTree = "<group>"; };
+		FA5DA40D24D614B600E1031B /* Ibira - Planetario.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Planetario.gpx"; sourceTree = "<group>"; };
+		FADFF40824A8273F004CF472 /* Ibira - MAM.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - MAM.gpx"; sourceTree = "<group>"; };
+		FADFF40924A82AF4004CF472 /* Liberdade.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Liberdade.gpx; sourceTree = "<group>"; };
+		FADFF40A24A82CE5004CF472 /* Santa Cruz.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Santa Cruz.gpx"; sourceTree = "<group>"; };
+		FADFF40B24A82E36004CF472 /* Av Paulista - Sesc.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Av Paulista - Sesc.gpx"; sourceTree = "<group>"; };
+		FAE500D924BD0F5B001B7118 /* Ibira - Oca.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Oca.gpx"; sourceTree = "<group>"; };
+		FAE500DA24BD1007001B7118 /* Ibira - Auditorio.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Auditorio.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +78,7 @@
 		A340F84C21BF19A700BF8D06 /* Mapas */ = {
 			isa = PBXGroup;
 			children = (
+				FADFF40624A8206A004CF472 /* Locations */,
 				A340F84D21BF19A700BF8D06 /* AppDelegate.swift */,
 				A340F84F21BF19A700BF8D06 /* ViewController.swift */,
 				A340F85121BF19A700BF8D06 /* Main.storyboard */,
@@ -74,6 +95,33 @@
 				A340F86021BF1FBC00BF8D06 /* CoreLocation.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FADFF40624A8206A004CF472 /* Locations */ = {
+			isa = PBXGroup;
+			children = (
+				FA55870924A951300090A2E4 /* Av Paulista - Consolacao.gpx */,
+				FA55870824A950150090A2E4 /* Av Paulista - MASP.gpx */,
+				FADFF40B24A82E36004CF472 /* Av Paulista - Sesc.gpx */,
+				FA1B937824F0728600F93899 /* Ibira - 5.gpx */,
+				FAE500DA24BD1007001B7118 /* Ibira - Auditorio.gpx */,
+				FA28EB8824B134960031C082 /* Ibira - Bienal 1.gpx */,
+				FA28EB8B24B13A620031C082 /* Ibira - Bienal 2.gpx */,
+				FA28EB8C24B140050031C082 /* Ibira - Bienal 3.gpx */,
+				FA419D5824D73A5700DD47B2 /* Ibira - Bienal 4.gpx */,
+				FADFF40824A8273F004CF472 /* Ibira - MAM.gpx */,
+				FAE500D924BD0F5B001B7118 /* Ibira - Oca.gpx */,
+				FA5DA40D24D614B600E1031B /* Ibira - Planetario.gpx */,
+				FA053AF724C65BE600C7D5AE /* Ibirapuera 3.gpx */,
+				FA4B4F8B24CCDC5E00CC4C1C /* Liberdade - 2.gpx */,
+				FA1BE4BF24BB849800CA8B58 /* Liberdade - Kazu.gpx */,
+				FADFF40924A82AF4004CF472 /* Liberdade.gpx */,
+				FADFF40A24A82CE5004CF472 /* Santa Cruz.gpx */,
+				FA55870A24A952A40090A2E4 /* Sao Joaquim.gpx */,
+				FA4FC50824FB1FF6005CB9A5 /* Ibira - Lanchonete.gpx */,
+				FA588A1C24FF00E800FE778C /* Ibira - Planetario 2.gpx */,
+			);
+			path = Locations;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -103,11 +151,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
-				LastUpgradeCheck = 1000;
+				LastUpgradeCheck = 1200;
 				ORGANIZATIONNAME = AK;
 				TargetAttributes = {
 					A340F84921BF19A700BF8D06 = {
 						CreatedOnToolsVersion = 10.0;
+						LastSwiftMigration = 1160;
 					};
 				};
 			};
@@ -200,6 +249,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -261,6 +311,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -303,7 +354,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ak.Mapas;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -321,7 +372,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ak.Mapas;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

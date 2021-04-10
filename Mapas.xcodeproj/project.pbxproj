@@ -13,6 +13,23 @@
 		A340F85521BF19A800BF8D06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A340F85421BF19A800BF8D06 /* Assets.xcassets */; };
 		A340F85821BF19A800BF8D06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A340F85621BF19A800BF8D06 /* LaunchScreen.storyboard */; };
 		A340F86121BF1FBC00BF8D06 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A340F86021BF1FBC00BF8D06 /* CoreLocation.framework */; };
+		FA6C584E2622304500F25BBC /* Associacao.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C584D2622304500F25BBC /* Associacao.gpx */; };
+		FA6C58572622305F00F25BBC /* Centro 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C58512622305F00F25BBC /* Centro 2.gpx */; };
+		FA6C58582622305F00F25BBC /* Ferrazopolis.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C58522622305F00F25BBC /* Ferrazopolis.gpx */; };
+		FA6C58592622305F00F25BBC /* BIG.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C58532622305F00F25BBC /* BIG.gpx */; };
+		FA6C585A2622305F00F25BBC /* Centro 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C58542622305F00F25BBC /* Centro 1.gpx */; };
+		FA6C585B2622305F00F25BBC /* Dr Flaquer.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C58552622305F00F25BBC /* Dr Flaquer.gpx */; };
+		FA6C585C2622305F00F25BBC /* Big John.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C58562622305F00F25BBC /* Big John.gpx */; };
+		FA6C58622622308F00F25BBC /* Prestes Maia - 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C585E2622308E00F25BBC /* Prestes Maia - 3.gpx */; };
+		FA6C58632622308F00F25BBC /* Quirino de Lima.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C585F2622308E00F25BBC /* Quirino de Lima.gpx */; };
+		FA6C58642622308F00F25BBC /* Prestes Maia 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C58602622308F00F25BBC /* Prestes Maia 2.gpx */; };
+		FA6C58652622308F00F25BBC /* Prestes Maia 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C58612622308F00F25BBC /* Prestes Maia 1.gpx */; };
+		FA6C586B262230B400F25BBC /* SBC Plaza.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C5868262230B400F25BBC /* SBC Plaza.gpx */; };
+		FA6C586C262230B400F25BBC /* Tome de Souza.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C5869262230B400F25BBC /* Tome de Souza.gpx */; };
+		FA6C586D262230B400F25BBC /* SBC Plaza Centro.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FA6C586A262230B400F25BBC /* SBC Plaza Centro.gpx */; };
+		FAF88BAD25D03120000DCB50 /* Marechal 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FAF88BAC25D03120000DCB50 /* Marechal 1.gpx */; };
+		FAF88BB025D034A5000DCB50 /* McDonalds Ferra.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FAF88BAF25D034A5000DCB50 /* McDonalds Ferra.gpx */; };
+		FAF88BB325D036DB000DCB50 /* Praca Brasil.gpx in Resources */ = {isa = PBXBuildFile; fileRef = FAF88BB225D036DB000DCB50 /* Praca Brasil.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,10 +44,16 @@
 		FA053AF724C65BE600C7D5AE /* Ibirapuera 3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibirapuera 3.gpx"; sourceTree = "<group>"; };
 		FA1B937824F0728600F93899 /* Ibira - 5.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - 5.gpx"; sourceTree = "<group>"; };
 		FA1BE4BF24BB849800CA8B58 /* Liberdade - Kazu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Liberdade - Kazu.gpx"; sourceTree = "<group>"; };
+		FA2578F825A7CBC900E77226 /* Ibira - Museu Afro.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Museu Afro.gpx"; sourceTree = "<group>"; };
 		FA28EB8824B134960031C082 /* Ibira - Bienal 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Bienal 1.gpx"; sourceTree = "<group>"; };
 		FA28EB8B24B13A620031C082 /* Ibira - Bienal 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Bienal 2.gpx"; sourceTree = "<group>"; };
 		FA28EB8C24B140050031C082 /* Ibira - Bienal 3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Bienal 3.gpx"; sourceTree = "<group>"; };
 		FA419D5824D73A5700DD47B2 /* Ibira - Bienal 4.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Bienal 4.gpx"; sourceTree = "<group>"; };
+		FA44894225F5163C000CA76B /* Villa Lobos - Biblioteca.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Villa Lobos - Biblioteca.gpx"; sourceTree = "<group>"; };
+		FA44894325F51716000CA76B /* Villa Lobos - Policia.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Villa Lobos - Policia.gpx"; sourceTree = "<group>"; };
+		FA44894425F51781000CA76B /* Villa Lobos - Policia 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Villa Lobos - Policia 2.gpx"; sourceTree = "<group>"; };
+		FA44894625F51832000CA76B /* Haddock 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Haddock 1.gpx"; sourceTree = "<group>"; };
+		FA44894825F518C0000CA76B /* Av Paulista - Paulista.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Av Paulista - Paulista.gpx"; sourceTree = "<group>"; };
 		FA4B4F8B24CCDC5E00CC4C1C /* Liberdade - 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Liberdade - 2.gpx"; sourceTree = "<group>"; };
 		FA4FC50824FB1FF6005CB9A5 /* Ibira - Lanchonete.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Lanchonete.gpx"; sourceTree = "<group>"; };
 		FA55870824A950150090A2E4 /* Av Paulista - MASP.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Av Paulista - MASP.gpx"; sourceTree = "<group>"; };
@@ -38,12 +61,31 @@
 		FA55870A24A952A40090A2E4 /* Sao Joaquim.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Sao Joaquim.gpx"; sourceTree = "<group>"; };
 		FA588A1C24FF00E800FE778C /* Ibira - Planetario 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Planetario 2.gpx"; sourceTree = "<group>"; };
 		FA5DA40D24D614B600E1031B /* Ibira - Planetario.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Planetario.gpx"; sourceTree = "<group>"; };
+		FA6C584D2622304500F25BBC /* Associacao.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Associacao.gpx; sourceTree = "<group>"; };
+		FA6C58512622305F00F25BBC /* Centro 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Centro 2.gpx"; sourceTree = "<group>"; };
+		FA6C58522622305F00F25BBC /* Ferrazopolis.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Ferrazopolis.gpx; sourceTree = "<group>"; };
+		FA6C58532622305F00F25BBC /* BIG.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = BIG.gpx; sourceTree = "<group>"; };
+		FA6C58542622305F00F25BBC /* Centro 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Centro 1.gpx"; sourceTree = "<group>"; };
+		FA6C58552622305F00F25BBC /* Dr Flaquer.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Dr Flaquer.gpx"; sourceTree = "<group>"; };
+		FA6C58562622305F00F25BBC /* Big John.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Big John.gpx"; sourceTree = "<group>"; };
+		FA6C585E2622308E00F25BBC /* Prestes Maia - 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Prestes Maia - 3.gpx"; sourceTree = "<group>"; };
+		FA6C585F2622308E00F25BBC /* Quirino de Lima.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Quirino de Lima.gpx"; sourceTree = "<group>"; };
+		FA6C58602622308F00F25BBC /* Prestes Maia 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Prestes Maia 2.gpx"; sourceTree = "<group>"; };
+		FA6C58612622308F00F25BBC /* Prestes Maia 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Prestes Maia 1.gpx"; sourceTree = "<group>"; };
+		FA6C5868262230B400F25BBC /* SBC Plaza.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "SBC Plaza.gpx"; sourceTree = "<group>"; };
+		FA6C5869262230B400F25BBC /* Tome de Souza.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Tome de Souza.gpx"; sourceTree = "<group>"; };
+		FA6C586A262230B400F25BBC /* SBC Plaza Centro.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "SBC Plaza Centro.gpx"; sourceTree = "<group>"; };
+		FABB218525F8236A002011FA /* Paco 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Paco 1.gpx"; sourceTree = "<group>"; };
+		FAD4BDA525E187880064CD05 /* Av Paulista - Sesc 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Av Paulista - Sesc 2.gpx"; sourceTree = "<group>"; };
 		FADFF40824A8273F004CF472 /* Ibira - MAM.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - MAM.gpx"; sourceTree = "<group>"; };
 		FADFF40924A82AF4004CF472 /* Liberdade.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Liberdade.gpx; sourceTree = "<group>"; };
 		FADFF40A24A82CE5004CF472 /* Santa Cruz.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Santa Cruz.gpx"; sourceTree = "<group>"; };
 		FADFF40B24A82E36004CF472 /* Av Paulista - Sesc.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Av Paulista - Sesc.gpx"; sourceTree = "<group>"; };
 		FAE500D924BD0F5B001B7118 /* Ibira - Oca.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Oca.gpx"; sourceTree = "<group>"; };
 		FAE500DA24BD1007001B7118 /* Ibira - Auditorio.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Ibira - Auditorio.gpx"; sourceTree = "<group>"; };
+		FAF88BAC25D03120000DCB50 /* Marechal 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Marechal 1.gpx"; sourceTree = "<group>"; };
+		FAF88BAF25D034A5000DCB50 /* McDonalds Ferra.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "McDonalds Ferra.gpx"; sourceTree = "<group>"; };
+		FAF88BB225D036DB000DCB50 /* Praca Brasil.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Praca Brasil.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +143,25 @@
 			isa = PBXGroup;
 			children = (
 				FA55870924A951300090A2E4 /* Av Paulista - Consolacao.gpx */,
+				FA6C584D2622304500F25BBC /* Associacao.gpx */,
+				FAF88BAC25D03120000DCB50 /* Marechal 1.gpx */,
+				FAF88BAF25D034A5000DCB50 /* McDonalds Ferra.gpx */,
+				FA6C58562622305F00F25BBC /* Big John.gpx */,
+				FA6C58532622305F00F25BBC /* BIG.gpx */,
+				FA6C58542622305F00F25BBC /* Centro 1.gpx */,
+				FA6C58552622305F00F25BBC /* Dr Flaquer.gpx */,
+				FA6C58512622305F00F25BBC /* Centro 2.gpx */,
+				FA6C58522622305F00F25BBC /* Ferrazopolis.gpx */,
+				FA6C58612622308F00F25BBC /* Prestes Maia 1.gpx */,
+				FA6C58602622308F00F25BBC /* Prestes Maia 2.gpx */,
+				FA6C585E2622308E00F25BBC /* Prestes Maia - 3.gpx */,
+				FA6C585F2622308E00F25BBC /* Quirino de Lima.gpx */,
+				FA6C586A262230B400F25BBC /* SBC Plaza Centro.gpx */,
+				FA6C5868262230B400F25BBC /* SBC Plaza.gpx */,
+				FA6C5869262230B400F25BBC /* Tome de Souza.gpx */,
 				FA55870824A950150090A2E4 /* Av Paulista - MASP.gpx */,
 				FADFF40B24A82E36004CF472 /* Av Paulista - Sesc.gpx */,
+				FAF88BB225D036DB000DCB50 /* Praca Brasil.gpx */,
 				FA1B937824F0728600F93899 /* Ibira - 5.gpx */,
 				FAE500DA24BD1007001B7118 /* Ibira - Auditorio.gpx */,
 				FA28EB8824B134960031C082 /* Ibira - Bienal 1.gpx */,
@@ -120,6 +179,14 @@
 				FA55870A24A952A40090A2E4 /* Sao Joaquim.gpx */,
 				FA4FC50824FB1FF6005CB9A5 /* Ibira - Lanchonete.gpx */,
 				FA588A1C24FF00E800FE778C /* Ibira - Planetario 2.gpx */,
+				FA2578F825A7CBC900E77226 /* Ibira - Museu Afro.gpx */,
+				FAD4BDA525E187880064CD05 /* Av Paulista - Sesc 2.gpx */,
+				FA44894225F5163C000CA76B /* Villa Lobos - Biblioteca.gpx */,
+				FA44894325F51716000CA76B /* Villa Lobos - Policia.gpx */,
+				FA44894425F51781000CA76B /* Villa Lobos - Policia 2.gpx */,
+				FA44894625F51832000CA76B /* Haddock 1.gpx */,
+				FA44894825F518C0000CA76B /* Av Paulista - Paulista.gpx */,
+				FABB218525F8236A002011FA /* Paco 1.gpx */,
 			);
 			path = Locations;
 			sourceTree = "<group>";
@@ -183,9 +250,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA6C58632622308F00F25BBC /* Quirino de Lima.gpx in Resources */,
 				A340F85821BF19A800BF8D06 /* LaunchScreen.storyboard in Resources */,
+				FA6C585C2622305F00F25BBC /* Big John.gpx in Resources */,
+				FA6C58652622308F00F25BBC /* Prestes Maia 1.gpx in Resources */,
+				FA6C585A2622305F00F25BBC /* Centro 1.gpx in Resources */,
+				FA6C584E2622304500F25BBC /* Associacao.gpx in Resources */,
+				FA6C58582622305F00F25BBC /* Ferrazopolis.gpx in Resources */,
 				A340F85521BF19A800BF8D06 /* Assets.xcassets in Resources */,
+				FAF88BB325D036DB000DCB50 /* Praca Brasil.gpx in Resources */,
+				FAF88BB025D034A5000DCB50 /* McDonalds Ferra.gpx in Resources */,
+				FA6C585B2622305F00F25BBC /* Dr Flaquer.gpx in Resources */,
+				FA6C58642622308F00F25BBC /* Prestes Maia 2.gpx in Resources */,
+				FAF88BAD25D03120000DCB50 /* Marechal 1.gpx in Resources */,
+				FA6C586C262230B400F25BBC /* Tome de Souza.gpx in Resources */,
+				FA6C586D262230B400F25BBC /* SBC Plaza Centro.gpx in Resources */,
+				FA6C58592622305F00F25BBC /* BIG.gpx in Resources */,
+				FA6C58622622308F00F25BBC /* Prestes Maia - 3.gpx in Resources */,
 				A340F85321BF19A700BF8D06 /* Main.storyboard in Resources */,
+				FA6C58572622305F00F25BBC /* Centro 2.gpx in Resources */,
+				FA6C586B262230B400F25BBC /* SBC Plaza.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
